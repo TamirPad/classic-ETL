@@ -1,0 +1,5 @@
+id,date,value,email,start_date,end_date
+1,2024-01-01,100,test@example.com,2024-01-01,2024-01-10
+2,2024-01-02,200,example@test.com,2024-01-02,2024-01-11
+3,2024-01-03,,user@example.com,2024-01-03,2024-01-12
+4,2024-01-04,300,contact@example.com,2024-01-04,2024-01-13
